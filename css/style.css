@@ -1,0 +1,27 @@
+nav {
+  opacity: 0.9;
+  transition: all 300ms linear;
+}
+
+ul.menu > .no-btn:hover > a {
+  color: #10bcee !important;
+}
+
+header {
+  padding-top: 100px;
+  background-image: url("../images/header-background.jpg");
+  background-size: cover;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+section.download {
+  background-image: url("../images/header-background.jpg");
+  margin-top: 10rem !important;
+}
+
+section.download .image-container {
+  margin-top: -6rem;
+}
